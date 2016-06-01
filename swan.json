@@ -1,0 +1,18 @@
+{
+  "name": "aurelia-todo",
+  "source": "Github",
+  "repositories": {
+    "project": {
+      "directory": ".",
+      "upstream": "git@github.com:spoonx/aurelia-todo.git"
+    },
+    "server": {
+      "directory": "aurelia-todo-server",
+      "upstream": "git@github.com:spoonx/aurelia-todo-server.git"
+    },
+    "client": {
+      "directory": "aurelia-todo-client",
+      "upstream": "git@github.com:spoonx/aurelia-todo-client.git"
+    }
+  }
+}
