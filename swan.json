@@ -1,18 +1,18 @@
 {
-  "name": "aurelia-todo",
+  "name": "swan-example",
   "source": "Github",
   "repositories": {
     "project": {
       "directory": ".",
-      "upstream": "git@github.com:spoonx/aurelia-todo.git"
+      "upstream": "git@github.com:spoonx/swan-example.git"
     },
     "server": {
-      "directory": "aurelia-todo-server",
-      "upstream": "git@github.com:spoonx/aurelia-todo-server.git"
+      "directory": "swan-example-server",
+      "upstream": "git@github.com:spoonx/swan-example-server.git"
     },
     "client": {
-      "directory": "aurelia-todo-client",
-      "upstream": "git@github.com:spoonx/aurelia-todo-client.git"
+      "directory": "swan-example-client",
+      "upstream": "git@github.com:spoonx/swan-example-client.git"
     }
   }
 }
