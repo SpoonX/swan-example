@@ -1,10 +1,10 @@
-# Aurelia todo
-This is the main project repository for the todo example.
+# Swan example
+This is the main project repository for the swan example.
 
 ## Installation
 
 1. Make sure you have [swan installed](https://github.com/spoonx/swan-cli) and set up.
-2. Run `swan setup spoonx/aurelia-todo`
+2. Run `swan setup spoonx/swan-example`
 
 ## Running
 There are two ways to run the application.
@@ -13,11 +13,11 @@ There are two ways to run the application.
 * Run the application using `swan start -v`
 
 ### Gulp and sails
-* Run the client using `cd aurelia-todo-client && gulp watch`
-* Run the server using `cd aurelia-todo-server && sails lift`
+* Run the client using `cd swan-example-client && gulp watch`
+* Run the server using `cd swan-example-server && sails lift`
 
 ## What
-Aurelia-todo is an example project to demonstrate several high-level components provided by SpoonX, including the usage of [SWAN](https://github.com/spoonx/swan-cli).
+Swan example is an example project to demonstrate several high-level components provided by SpoonX, including the usage of [SWAN](https://github.com/spoonx/swan-cli).
 
 The components demonstrated are:
 
