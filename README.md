@@ -1,6 +1,12 @@
 # Swan example
 This is the main project repository for the swan example.
 
+## Demo
+You can find a running demo here: http://swan-example.spoonx.org/
+
+Username: example
+Password: example
+
 ## Installation
 
 1. Make sure you have [swan installed](https://github.com/spoonx/swan-cli) and set up.
